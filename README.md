@@ -26,3 +26,11 @@ Check *cleaned* folder for cleaned transcript
 
 ![Alt text](./readme-images/image-5.png)
 
+## Requirements
+To use this script, you need:
+- Python 3.6+
+- the script, i.e the transcript-cleanup.py file
+- a folder named *original* in the folder as the script
+- a folder named *cleaned* in the folder as the script
+- copied transcript saved in *.txt* format in the *original* folder
+
